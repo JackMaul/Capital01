@@ -1,0 +1,2 @@
+rootProject.name='Capital De Fundos'
+include ':app'
